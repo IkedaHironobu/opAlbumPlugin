@@ -1,0 +1,2 @@
+./symfony opPlugin:install opAlbumPlugin -r 1.0.0.1
+./symfony openpne:migrate –target=opAlbumPlugin
